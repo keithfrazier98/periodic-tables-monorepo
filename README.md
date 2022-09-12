@@ -1,7 +1,7 @@
 # Periodic Tables
 ## Restaurant Reservation System
 
-> Link to live app: https://periodic-tables-frontend-g5bb766k5-keithfrazier98.vercel.app/
+> Link to live app: [https://periodic-tables-frontend-g5bb766k5-keithfrazier98.vercel.app/](https://periodictables-fe.vercel.app/dashboard)
 
 ### Overview
 
